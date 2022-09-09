@@ -1,0 +1,2 @@
+ SELECT current_database();
+ 
