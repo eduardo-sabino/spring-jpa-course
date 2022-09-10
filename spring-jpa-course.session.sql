@@ -1,2 +1,1 @@
- SELECT current_database();
- 
+SELECT * FROM student
